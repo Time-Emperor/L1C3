@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Laude!")
+print("Hell Ya!")
